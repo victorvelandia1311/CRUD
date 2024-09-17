@@ -1,7 +1,7 @@
 Agrega una migracion para aplicar a la base de datos
 dotnet ef migrations add "0001"
 
-Actualiza ultima migracion de las tablas
+Actualiza la ultima migracion de las tablas
 dotnet ef database update
 
 
